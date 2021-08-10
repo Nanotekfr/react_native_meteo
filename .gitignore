@@ -8,6 +8,15 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+package-lock.json
+*.log
 
-# macOS
-.DS_Store
+# Emulator
+#
+build/
+.expo/
+
+# Visual studio
+#
+.vscode
+.vs
