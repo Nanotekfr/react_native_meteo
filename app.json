@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "meteo-app",
-    "slug": "meteo-app",
+    "name": "react_native_meteo",
+    "slug": "react_native_meteo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
